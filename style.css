@@ -100,20 +100,26 @@
     width: 350px;
     height: 150px;
     left: 350px;
-    bottom: 150px;
+    bottom: 450px;
 }
 .caja-contenido-6{
-    border: thin solid red;
-    float: left;
+    position: relative;
+    border: 0.2em solid red;
+    text-align: 1em;
+    padding: 1em;
     width: 350px;
-    margin: 0px 25px 25px 0;
     height: 150px;
+    left: 700px;
+    bottom: 600px;
 }
 .caja-contenido-7{
-    border: thin solid red;
-    float: left;
-    width: 195px;
-    margin: -170px 5px 5px 10px;
-    height: 300px;
+  position: relative;
+  border: 0.2em solid red;
+  text-align: 1em;
+  padding: 1em;
+  width: 290px;
+  height: 300px;
+  left: 1050px;
+  bottom: 900px;
 
 }
